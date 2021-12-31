@@ -1,0 +1,26 @@
+h1 {
+color:aqua;
+}
+h2,p{
+color:forestgreen;
+}
+.header{
+background-color:lightseagreen;
+display:flex;
+justify-content:space-between;
+}
+.menu{
+    background-color:moccasin;
+    display:flex;
+    justify-content:space-evenly;
+    flex-direction:column-reverse;
+    }
+.grid{
+display:flex;
+justify-content: space-evenly;
+flex-wrap:wrap;
+}
+.footer{
+display:flex;
+justify-content:flex-end;
+}
